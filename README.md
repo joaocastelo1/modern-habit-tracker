@@ -8,7 +8,7 @@ Acompanhe o projeto em execução: [modern-habit-tracker.vercel.app](https://to-
 
 ## 📸 Preview
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaocastelo1/modern-habit-tracker/main/preview.png" alt="Dashboard Preview" width="800px">
+  <img src="modern-habit-tracker.png" alt="Dashboard Preview" width="800px">
 </div>
 
 ## ✨ Principais Funcionalidades
