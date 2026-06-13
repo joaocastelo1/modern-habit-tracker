@@ -39,9 +39,13 @@ Acompanhe o projeto em execução: [modern-habit-tracker.vercel.app](https://to-
 ## 🚀 Como Executar
 
 1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/joaocastelo1/modern-habit-tracker.git](https://github.com/joaocastelo1/modern-habit-tracker.git)
-   cd modern-habit-tracker
+ 
+Siga os passos abaixo para rodar a aplicação localmente no seu ambiente de desenvolvimento:
+
+### 1. Clonar o Repositório
+```bash
+git clone [https://github.com/joaocastelo1/modern-habit-tracker.git](https://github.com/joaocastelo1/modern-habit-tracker.git)
+cd modern-habit-tracker
 Instale as dependências:
 
 Bash
